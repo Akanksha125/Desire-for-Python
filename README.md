@@ -1,6 +1,8 @@
 # Desire-for-Python
 This repository consist of some mini projects that I have created using Python language. Let's learn to code whilst having fun.
 
+TREASURE HUNT :
+
 To add ascii figure -
 
 1. Type print('''
